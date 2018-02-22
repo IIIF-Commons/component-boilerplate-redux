@@ -1,6 +1,6 @@
 # component-boilerplate-redux
 
-http://viewdir.github.io/component-boilerplate-redux/examples/
+http://iiif-commons.github.io/component-boilerplate-redux/examples/
 
     npm install
 
